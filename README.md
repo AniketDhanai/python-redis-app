@@ -28,16 +28,16 @@
 <br />
     👉Clone this repository:<br />
             
-        git clone https://github.com/your-username/flask-redis-counter.git<br />
-        cd flask-redis-counter<br />
+        git clone https://github.com/AniketDhanai/python-redis-app.git
+        cd python-redis-app
   
 📌 **Start the application:**<br />
         
-        docker-compose up<br />
+        docker-compose up
 
 📌 **Access the app in your browser:**<br />
             
-        http://localhost:5000<br />
+        http://localhost:5000
 
 📌 **You should see:**<br />
 <br />
