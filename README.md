@@ -19,7 +19,7 @@ iii.Simple containerized setup using Docker Compose.
 
 📢 **Getting Started**
 
-📌 **Prerequisites**
+📌 **Prerequisites**<br />
 👉Docker
 👉Docker Compose
 
