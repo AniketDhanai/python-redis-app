@@ -6,14 +6,6 @@
 <br />    
 <strong>Project Structure</strong><br />
 <br />
-    .<br />
-    ├── app.py                # Flask application code<br />
-    ├── docker-compose.yml    # Docker Compose file to set up Flask and Redis<br />
-    ├── requirements.txt      # Python dependencies<br />
-    └── static/<br />
-........└── stickman.png      # Static image served on the webpage<br />
-<br />
-
 <pre>
 <code>
 .
@@ -24,8 +16,6 @@
     └── stickman.png      # Static image served on the webpage
 </code>
 </pre>
-
-
 <strong>Features</strong><br />
 <br />
     i.Flask app connected to Redis for counting visits.<br />
