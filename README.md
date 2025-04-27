@@ -10,7 +10,7 @@
     ├── app.py                # Flask application code<br />
     ├── docker-compose.yml    # Docker Compose file to set up Flask and Redis<br />
     ├── requirements.txt      # Python dependencies<br />
-    └── static/<br />
+    └── static/
         └── stickman.png      # Static image served on the webpage<br />
 <br />
 <strong>Features</strong><br />
