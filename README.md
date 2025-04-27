@@ -26,28 +26,28 @@
         👉Docker<br />
         👉Docker Compose<br />
 <br />
-    📌 **Steps**<br />
+    📌 <strong>Steps</strong><br />
 <br />
         👉Clone this repository:<br />
             
             git clone https://github.com/AniketDhanai/python-redis-app.git
             cd python-redis-app
   <br />
-    📌 **Start the application:**<br />
+    📌 <strong>Start the application:</strong><br />
         
             docker-compose up
 <br />
-    📌 **Access the app in your browser:**<br />
+    📌 <strong>Access the app in your browser:</strong><br />
             
         http://localhost:5000
 <br />
-    📌 **You should see:**<br />
+    📌 <strong>You should see:</strong><br />
 <br />
         👉A "Hello Everyone!" message<br />
         👉A stickman image<br />
         👉A counter showing how many times the page has been visited<br />
     <br />
-    📌 **Notes**<br />
+    📌 <strong>Notes</strong><br />
 <br />
         👉The Flask app automatically connects to Redis using the service name redis.<br />
         👉Static files like images must be placed inside the static/ folder.<br />
