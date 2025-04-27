@@ -4,7 +4,7 @@
     👉 Each time you access the webpage, the counter increments and displays the number of visits.<br />
     👉 An image is also served through Flask’s static folder.<br />
 <br />    
-**Project Structure**<br />
+<strong>Project Structure</strong><br />
 <br />
     .<br />
     ├── app.py                # Flask application code<br />
@@ -13,15 +13,15 @@
     └── static/<br />
         └── stickman.png      # Static image served on the webpage<br />
 <br />
-**Features**<br />
+<strong>Features</strong><br />
 <br />
     i.Flask app connected to Redis for counting visits.<br />
     ii.Static image serving through Flask.<br />
     iii.Simple containerized setup using Docker Compose.<br />
 <br />
-📢 **Getting Started**<br />
+📢 <strong>Getting Started</strong><br />
 <br />
-    📌 **Prerequisites**<br />
+    📌 <strong>Prerequisites</strong><br />
 <br />
         👉Docker<br />
         👉Docker Compose<br />
