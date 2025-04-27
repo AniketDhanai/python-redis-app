@@ -13,6 +13,19 @@
     └── static/<br />
 ........└── stickman.png      # Static image served on the webpage<br />
 <br />
+
+<pre>
+<code>
+.
+├── app.py                # Flask application code
+├── docker-compose.yml    # Docker Compose file to set up Flask and Redis
+├── requirements.txt      # Python dependencies
+└── static/
+    └── stickman.png      # Static image served on the webpage
+</code>
+</pre>
+
+
 <strong>Features</strong><br />
 <br />
     i.Flask app connected to Redis for counting visits.<br />
